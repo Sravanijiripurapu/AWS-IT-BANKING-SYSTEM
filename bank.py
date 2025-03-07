@@ -11,7 +11,7 @@ app.secret_key = "your_secret_key"  # Needed for flash msgs
 
 # Database config
 db_config = {
-    'host': '127.0.0.1',
+    'host': 'itbank.ctyi4u284zm1.us-east-1.rds.amazonaws.com',
     'user': 'root',
     'password': 'Sravani@1212',
     'database': 'ITBank'
